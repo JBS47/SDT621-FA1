@@ -1,0 +1,14 @@
+C:\C# Projects\SDT621-FA1\Question 1\StudentResults\StudentResults\bin\Debug\net8.0\StudentResults.exe
+C:\C# Projects\SDT621-FA1\Question 1\StudentResults\StudentResults\bin\Debug\net8.0\StudentResults.deps.json
+C:\C# Projects\SDT621-FA1\Question 1\StudentResults\StudentResults\bin\Debug\net8.0\StudentResults.runtimeconfig.json
+C:\C# Projects\SDT621-FA1\Question 1\StudentResults\StudentResults\bin\Debug\net8.0\StudentResults.dll
+C:\C# Projects\SDT621-FA1\Question 1\StudentResults\StudentResults\bin\Debug\net8.0\StudentResults.pdb
+C:\C# Projects\SDT621-FA1\Question 1\StudentResults\StudentResults\obj\Debug\net8.0\StudentResults.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Projects\SDT621-FA1\Question 1\StudentResults\StudentResults\obj\Debug\net8.0\StudentResults.AssemblyInfoInputs.cache
+C:\C# Projects\SDT621-FA1\Question 1\StudentResults\StudentResults\obj\Debug\net8.0\StudentResults.AssemblyInfo.cs
+C:\C# Projects\SDT621-FA1\Question 1\StudentResults\StudentResults\obj\Debug\net8.0\StudentResults.csproj.CoreCompileInputs.cache
+C:\C# Projects\SDT621-FA1\Question 1\StudentResults\StudentResults\obj\Debug\net8.0\StudentResults.dll
+C:\C# Projects\SDT621-FA1\Question 1\StudentResults\StudentResults\obj\Debug\net8.0\refint\StudentResults.dll
+C:\C# Projects\SDT621-FA1\Question 1\StudentResults\StudentResults\obj\Debug\net8.0\StudentResults.pdb
+C:\C# Projects\SDT621-FA1\Question 1\StudentResults\StudentResults\obj\Debug\net8.0\StudentResults.genruntimeconfig.cache
+C:\C# Projects\SDT621-FA1\Question 1\StudentResults\StudentResults\obj\Debug\net8.0\ref\StudentResults.dll

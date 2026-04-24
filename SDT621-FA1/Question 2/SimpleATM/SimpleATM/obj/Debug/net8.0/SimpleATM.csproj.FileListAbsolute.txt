@@ -1,0 +1,14 @@
+C:\C# Projects\SDT621-FA1\Question 2\SimpleATM\SimpleATM\bin\Debug\net8.0\SimpleATM.exe
+C:\C# Projects\SDT621-FA1\Question 2\SimpleATM\SimpleATM\bin\Debug\net8.0\SimpleATM.deps.json
+C:\C# Projects\SDT621-FA1\Question 2\SimpleATM\SimpleATM\bin\Debug\net8.0\SimpleATM.runtimeconfig.json
+C:\C# Projects\SDT621-FA1\Question 2\SimpleATM\SimpleATM\bin\Debug\net8.0\SimpleATM.dll
+C:\C# Projects\SDT621-FA1\Question 2\SimpleATM\SimpleATM\bin\Debug\net8.0\SimpleATM.pdb
+C:\C# Projects\SDT621-FA1\Question 2\SimpleATM\SimpleATM\obj\Debug\net8.0\SimpleATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Projects\SDT621-FA1\Question 2\SimpleATM\SimpleATM\obj\Debug\net8.0\SimpleATM.AssemblyInfoInputs.cache
+C:\C# Projects\SDT621-FA1\Question 2\SimpleATM\SimpleATM\obj\Debug\net8.0\SimpleATM.AssemblyInfo.cs
+C:\C# Projects\SDT621-FA1\Question 2\SimpleATM\SimpleATM\obj\Debug\net8.0\SimpleATM.csproj.CoreCompileInputs.cache
+C:\C# Projects\SDT621-FA1\Question 2\SimpleATM\SimpleATM\obj\Debug\net8.0\SimpleATM.dll
+C:\C# Projects\SDT621-FA1\Question 2\SimpleATM\SimpleATM\obj\Debug\net8.0\refint\SimpleATM.dll
+C:\C# Projects\SDT621-FA1\Question 2\SimpleATM\SimpleATM\obj\Debug\net8.0\SimpleATM.pdb
+C:\C# Projects\SDT621-FA1\Question 2\SimpleATM\SimpleATM\obj\Debug\net8.0\SimpleATM.genruntimeconfig.cache
+C:\C# Projects\SDT621-FA1\Question 2\SimpleATM\SimpleATM\obj\Debug\net8.0\ref\SimpleATM.dll
