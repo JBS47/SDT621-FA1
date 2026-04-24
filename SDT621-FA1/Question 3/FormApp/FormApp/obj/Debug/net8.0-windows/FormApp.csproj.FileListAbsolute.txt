@@ -1,0 +1,16 @@
+C:\C# Projects\SDT621-FA1\Question 3\FormApp\FormApp\obj\Debug\net8.0-windows\FormApp.Form1.resources
+C:\C# Projects\SDT621-FA1\Question 3\FormApp\FormApp\obj\Debug\net8.0-windows\FormApp.csproj.GenerateResource.cache
+C:\C# Projects\SDT621-FA1\Question 3\FormApp\FormApp\obj\Debug\net8.0-windows\FormApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Projects\SDT621-FA1\Question 3\FormApp\FormApp\obj\Debug\net8.0-windows\FormApp.AssemblyInfoInputs.cache
+C:\C# Projects\SDT621-FA1\Question 3\FormApp\FormApp\obj\Debug\net8.0-windows\FormApp.AssemblyInfo.cs
+C:\C# Projects\SDT621-FA1\Question 3\FormApp\FormApp\obj\Debug\net8.0-windows\FormApp.csproj.CoreCompileInputs.cache
+C:\C# Projects\SDT621-FA1\Question 3\FormApp\FormApp\bin\Debug\net8.0-windows\FormApp.exe
+C:\C# Projects\SDT621-FA1\Question 3\FormApp\FormApp\bin\Debug\net8.0-windows\FormApp.deps.json
+C:\C# Projects\SDT621-FA1\Question 3\FormApp\FormApp\bin\Debug\net8.0-windows\FormApp.runtimeconfig.json
+C:\C# Projects\SDT621-FA1\Question 3\FormApp\FormApp\bin\Debug\net8.0-windows\FormApp.dll
+C:\C# Projects\SDT621-FA1\Question 3\FormApp\FormApp\bin\Debug\net8.0-windows\FormApp.pdb
+C:\C# Projects\SDT621-FA1\Question 3\FormApp\FormApp\obj\Debug\net8.0-windows\FormApp.dll
+C:\C# Projects\SDT621-FA1\Question 3\FormApp\FormApp\obj\Debug\net8.0-windows\refint\FormApp.dll
+C:\C# Projects\SDT621-FA1\Question 3\FormApp\FormApp\obj\Debug\net8.0-windows\FormApp.pdb
+C:\C# Projects\SDT621-FA1\Question 3\FormApp\FormApp\obj\Debug\net8.0-windows\FormApp.genruntimeconfig.cache
+C:\C# Projects\SDT621-FA1\Question 3\FormApp\FormApp\obj\Debug\net8.0-windows\ref\FormApp.dll

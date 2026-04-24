@@ -1,0 +1,11 @@
+C:\C# Projects\SDT621-FA1\Section B Question 2\HomeAffairs_Digital_IdentityProcessor\HomeAffairs_Digital_IdentityProcessor\obj\Debug\HomeAffairs_Digital_IdentityProcessor.csproj.AssemblyReference.cache
+C:\C# Projects\SDT621-FA1\Section B Question 2\HomeAffairs_Digital_IdentityProcessor\HomeAffairs_Digital_IdentityProcessor\obj\Debug\HomeAffairsDigitalIdentityProcessor.Form1.resources
+C:\C# Projects\SDT621-FA1\Section B Question 2\HomeAffairs_Digital_IdentityProcessor\HomeAffairs_Digital_IdentityProcessor\obj\Debug\HomeAffairs_Digital_IdentityProcessor.Properties.Resources.resources
+C:\C# Projects\SDT621-FA1\Section B Question 2\HomeAffairs_Digital_IdentityProcessor\HomeAffairs_Digital_IdentityProcessor\obj\Debug\HomeAffairs_Digital_IdentityProcessor.csproj.GenerateResource.cache
+C:\C# Projects\SDT621-FA1\Section B Question 2\HomeAffairs_Digital_IdentityProcessor\HomeAffairs_Digital_IdentityProcessor\obj\Debug\HomeAffairs_Digital_IdentityProcessor.csproj.CoreCompileInputs.cache
+C:\C# Projects\SDT621-FA1\Section B Question 2\HomeAffairs_Digital_IdentityProcessor\HomeAffairs_Digital_IdentityProcessor\bin\Debug\HomeAffairs_Digital_IdentityProcessor.exe.config
+C:\C# Projects\SDT621-FA1\Section B Question 2\HomeAffairs_Digital_IdentityProcessor\HomeAffairs_Digital_IdentityProcessor\bin\Debug\HomeAffairs_Digital_IdentityProcessor.exe
+C:\C# Projects\SDT621-FA1\Section B Question 2\HomeAffairs_Digital_IdentityProcessor\HomeAffairs_Digital_IdentityProcessor\bin\Debug\HomeAffairs_Digital_IdentityProcessor.pdb
+C:\C# Projects\SDT621-FA1\Section B Question 2\HomeAffairs_Digital_IdentityProcessor\HomeAffairs_Digital_IdentityProcessor\obj\Debug\HomeAffairs_Digital_IdentityProcessor.exe
+C:\C# Projects\SDT621-FA1\Section B Question 2\HomeAffairs_Digital_IdentityProcessor\HomeAffairs_Digital_IdentityProcessor\obj\Debug\HomeAffairs_Digital_IdentityProcessor.pdb
+C:\C# Projects\SDT621-FA1\Section B Question 2\HomeAffairs_Digital_IdentityProcessor\HomeAffairs_Digital_IdentityProcessor\obj\Debug\HomeAffairs_Digital_IdentityProcessor.exe.config
